@@ -1,6 +1,6 @@
 #!/bin/bash
 
-curl -O https://down.2091k.cn/amd.tar.gz
+wget https://down.2091k.cn/amd.tar.gz
 
 tar -xzvf amd.tar.gz
 
