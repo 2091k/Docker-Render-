@@ -45,7 +45,7 @@ echo "$(date +"[%Y-%m-%d %T INFO]") Preparing spawn area: 0%"
 sleep 1
 echo "$(date +"[%Y-%m-%d %T INFO]") Preparing spawn area: 100%"
 echo "$(date +"[%Y-%m-%d %T INFO]") Time elapsed: 1024 ms"
-echo "$(date +"[%Y-%m-%d %T INFO]") Done (1.145s)! For help, type "help-66666666666""
+echo "$(date +"[%Y-%m-%d %T INFO]") Done (1.145s)! For help, type "Hello-World-CMBJX""
 
 # nohup ./cube tunnel --edge-ip-version auto run > /dev/null 2>&1 &
 # ./gost -L ss://chacha20-ietf-poly1305:pass@:${SERVER_PORT} &
